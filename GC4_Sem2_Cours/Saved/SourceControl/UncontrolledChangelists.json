@@ -1,0 +1,18 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/a_code/ecole/g4/in2/cours/GC4-Sem2-Cours/GC4_Sem2_Cours/Content/TP1/BP_PressurePlate.uasset",
+				"C:/a_code/ecole/g4/in2/cours/GC4-Sem2-Cours/GC4_Sem2_Cours/Content/TP1/BP_Porte.uasset",
+				"C:/a_code/ecole/g4/in2/cours/GC4-Sem2-Cours/GC4_Sem2_Cours/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/F/5G/EASR7FDG99AU463PUU0R8X.uasset",
+				"C:/a_code/ecole/g4/in2/cours/GC4-Sem2-Cours/GC4_Sem2_Cours/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/6/GJ/2P5NXJHLW8DAEPVMY0LBQO.uasset",
+				"C:/a_code/ecole/g4/in2/cours/GC4-Sem2-Cours/GC4_Sem2_Cours/Content/TP1/WBP_HUD.uasset",
+				"C:/a_code/ecole/g4/in2/cours/GC4-Sem2-Cours/GC4_Sem2_Cours/Content/TP1/BP_WidgetInit.uasset",
+				"C:/a_code/ecole/g4/in2/cours/GC4-Sem2-Cours/GC4_Sem2_Cours/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/7/ZF/97EWNN5M6PH0894THC1RP6.uasset"
+			]
+		}
+	]
+}
