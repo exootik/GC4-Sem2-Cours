@@ -1,8 +1,7 @@
-[22240:13104:1012/145211.292:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
-[22240:2196:1012/145211.637:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
-[22240:13104:1012/145211.789:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
-[22240:13104:1012/145221.174:ERROR:device_event_log_impl.cc(196)] [14:52:21.117] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Élément introuvable. (0x490)
-[5052:12328:1012/145221.753:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-57ECCE9673CA83F2A2CDB81CDB806618 will be ignored
-[22240:13104:1012/145415.379:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[22240:13104:1012/155300.775:ERROR:device_event_log_impl.cc(196)] [15:53:00.721] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Élément introuvable. (0x490)
-[22240:13104:1012/161148.151:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
+[6928:11648:1012/161350.094:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[6928:22808:1012/161350.239:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[6928:11648:1012/161350.335:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[6928:11648:1012/161358.525:ERROR:device_event_log_impl.cc(196)] [16:13:58.205] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Élément introuvable. (0x490)
+[5784:20096:1012/161359.531:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-E88CABB911207498B233C309007343B0 will be ignored
+[6928:11648:1012/162802.747:ERROR:device_event_log_impl.cc(196)] [16:28:02.699] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Élément introuvable. (0x490)
+[6928:11648:1012/180627.788:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.

@@ -1,2 +1,3 @@
-2026/10/12-14:52:18.694 54ec Creating DB C:\a_code\ecole\g4\in2\cours\GC4-Sem2-Cours\GC4_Sem2_Cours\Saved\webcache_6613\Default\shared_proto_db\metadata since it was missing.
-2026/10/12-14:52:18.709 54ec Reusing MANIFEST C:\a_code\ecole\g4\in2\cours\GC4-Sem2-Cours\GC4_Sem2_Cours\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001
+2026/10/12-16:13:55.887 6e88 Reusing MANIFEST C:\a_code\ecole\g4\in2\cours\GC4-Sem2-Cours\GC4_Sem2_Cours\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001
+2026/10/12-16:13:55.887 6e88 Recovering log #3
+2026/10/12-16:13:55.888 6e88 Reusing old log C:\a_code\ecole\g4\in2\cours\GC4-Sem2-Cours\GC4_Sem2_Cours\Saved\webcache_6613\Default\shared_proto_db\metadata/000003.log 
